@@ -1,26 +1,50 @@
-<h1 align="center">Hi 👋, I'm Shahjad Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hello, I'm Shahjad Ansari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarishahjad&label=Profile%20views&color=0e75b6&style=flat" alt="ansarishahjad" /> </p>
+## ⚡ Electrical & Electronics Engineer
 
-- 🌱 I’m currently learning **Everything 😄**
+Currently thriving as an Electrical Engineer at **Jay Bharat Steel Corporation**, Gujarat, I bring a passion for innovation, a strong foundation in engineering principles, and hands-on experience in industrial automation and electrical systems.
 
-- 👯 I’m looking to collaborate on **SCSS**
+---
 
-- 📫 How to reach me **ansarishahjad491@gmail.com**
+### 🌟 Professional Summary
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahjad ansari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahjad ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/shahjad_ansari43" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shahjad_ansari43" height="30" width="40" /></a>
-</p>
+- Dedicated Electrical & Electronics Engineer with practical experience in industrial environments.
+- Proficient in designing, implementing, and maintaining electrical systems to optimize operational efficiency.
+- Strong analytical thinker and problem solver, always eager to learn and adapt to new technologies.
+- Excellent communicator and team player, committed to delivering projects on time and with high quality.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarishahjad&show_icons=true&locale=en&layout=compact" alt="ansarishahjad" /></p>
+### 🔧 Technical Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansarishahjad&show_icons=true&locale=en" alt="ansarishahjad" /></p>
+- **PLC Programming:** Automation, process control, troubleshooting
+- **AutoCAD:** Electrical schematics & layouts
+- **MATLAB:** Simulation & analysis
+- **Python (Basics):** Automation scripts, data handling
+- **C Language (Basics):** Embedded systems fundamentals
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansarishahjad&" alt="ansarishahjad" /></p>
+---
 
+### 🏆 Highlights & Interests
+
+- Experience in maintaining and optimizing electrical systems for large-scale steel manufacturing.
+- Keen interest in industrial automation and smart manufacturing solutions.
+- Enthusiastic about continuous learning—avid reader and technology explorer.
+- Committed to safety, efficiency, and reliability in all engineering projects.
+
+---
+
+### 📚 Outside of Work
+
+- Book lover—always exploring new ideas through reading.
+- Enjoy collaborating with fellow engineers and technology enthusiasts.
+
+---
+
+### 📫 Let's Connect
+
+- **Email:** ansarishahjad491@gmail.com
+
+---
+
+_Thank you for visiting my profile! I am always open to connecting with professionals, learning new things, and exploring opportunities in the world of technology and engineering._
